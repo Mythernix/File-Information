@@ -1,0 +1,1 @@
+jre-legacy.zip|1.0.0|https://github.com/Mythernix/Runtime/releases/download/Client/jre-legacy.zip
