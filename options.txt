@@ -1,5 +1,5 @@
-options.txt|1.0.0|
+options.txt|1.0.0|https://github.com/Mythernix/Options/blob/main/options.txt
 
-paragliderSettings.nbt|1.0.0|
+paragliderSettings.nbt|1.0.0|https://github.com/Mythernix/Options/blob/main/paragliderSettings.nbt
 
-patchouli_data.json|1.0.0|
+patchouli_data.json|1.0.0|https://github.com/Mythernix/Options/blob/main/patchouli_data.json
