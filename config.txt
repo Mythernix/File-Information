@@ -180,9 +180,7 @@ xaerominimap.txt|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/c
 
 xaerominimap_entities.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/xaerominimap_entities.json
 
-alexsmobs|alligator_snapping_turtle_spawns.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/alexsmobs/
-
-alligator_snapping_turtle_spawns.json
+alexsmobs|alligator_snapping_turtle_spawns.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/alexsmobs/alligator_snapping_turtle_spawns.json
 
 alexsmobs|bald_eagle_spawns.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/alexsmobs/bald_eagle_spawns.json
 
@@ -512,8 +510,7 @@ iceandfire|hippogryph_black_biomes.json|1.0.0|https://raw.githubusercontent.com/
 
 iceandfire|hippogryph_brown_biomes.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/iceandfire/hippogryph_brown_biomes.json
 
-iceandfire|hippogryph_chestnut_biomes.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/iceandfire/
-hippogryph_chestnut_biomes.json
+iceandfire|hippogryph_chestnut_biomes.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/iceandfire/hippogryph_chestnut_biomes.json
 
 iceandfire|hippogryph_creamy_biomes.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/iceandfire/hippogryph_creamy_biomes.json
 
@@ -575,7 +572,7 @@ infernalexp|spawnrates|shroomloin_spawns.json|1.0.0|https://raw.githubuserconten
 
 infernalexp|spawnrates|voline_spawns.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/infernalexp/spawnrates/voline_spawns.json
 
-infernalexp|warpbeetle_spawns.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/infernalexp/warpbeetle_spawns.json
+infernalexp|spawnrates|warpbeetle_spawns.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/infernalexp/warpbeetle_spawns.json
 
 jei|ingredient-list-mod-sort-order.ini|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/jei/ingredient-list-mod-sort-order.ini
 
@@ -585,21 +582,21 @@ jei|recipe-category-sort-order.ini|1.0.0|https://raw.githubusercontent.com/Mythe
 
 pickableorbs|common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/common.toml
 
-pickableorbs|confusion.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/confusion.json
+pickableorbs|orbs|confusion.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/confusion.json
 
-pickableorbs|damaging.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/damaging.json
+pickableorbs|orbs|damaging.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/damaging.json
 
-pickableorbs|fire_resistance.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/fire_resistance.json
+pickableorbs|orbs|fire_resistance.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/fire_resistance.json
 
-pickableorbs|health.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/health.json
+pickableorbs|orbs|health.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/health.json
 
-pickableorbs|jump.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/jump.json
+pickableorbs|orbs|jump.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/jump.json
 
-pickableorbs|levitation.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/levitation.json
+pickableorbs|orbs|levitation.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/levitation.json
 
-pickableorbs|poison.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/poison.json
+pickableorbs|orbs|poison.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/poison.json
 
-pickableorbs|speed.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/speed.json
+pickableorbs|orbs|speed.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/speed.json
 
 pickableorbs|readme.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/pickableorbs/readme.toml
 
