@@ -1,4 +1,3 @@
 options.txt|1.0.0|https://raw.githubusercontent.com/Mythernix/Options/refs/heads/main/options.txt
 paragliderSettings.nbt|1.0.0|https://raw.githubusercontent.com/Mythernix/Options/refs/heads/main/paragliderSettings.nbt
 patchouli_data.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Options/refs/heads/main/patchouli_data.json
-
