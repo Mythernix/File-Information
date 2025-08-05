@@ -53,8 +53,8 @@ Just Enough Items 7.8.0.1013.jar|1.0.0|https://github.com/Mythernix/Mods/release
 Kiwi 3.6.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Kiwi.3.6.1.jar
 Lazy Data Fixer Upper 0.1.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Lazy.Data.Fixer.Upper.0.1.3.jar
 LibX 1.0.76.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/LibX.1.0.76.jar
-Medieval Craft (Structures) 2.0.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Medieval.Craft.(Structures).2.0.2.jar
-Medieval craft (Weapons) 1.4.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Medieval.craft.(Weapons).1.4.1.jar
+Medieval Craft (Structures) 2.0.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Medieval.Craft.Structures.2.0.2.jar
+Medieval craft (Weapons) 1.4.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Medieval.craft.Weapons.1.4.1.jar
 Medieval RP mod 0.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Medieval.RP.mod.0.1.jar
 Modern Fix 5.18.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Modern.Fix.5.18.jar
 Moonlight Lib 1.9.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Moonlight.Lib.1.9.jar
@@ -101,4 +101,3 @@ World Building Plus 1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/dow
 Xaero's Minimap 25.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Xaero.s.Minimap.25.2.jar
 YUNG's API 13.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.API.13.jar
 YUNG's Better Caves 1.1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.Better.Caves.1.1.2.jar
-
