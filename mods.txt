@@ -1,205 +1,103 @@
 Alex Mobs 1.12.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Alex.Mobs.1.12.1.jar
-
 Ambient Sounds 3.1.11.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Ambient.Sounds.3.1.11.jar
-
 Aquaculture 2.1.23.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Aquaculture.2.1.23.jar
-
 Architectury API 1.32.68.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Architectury.API.1.32.68.jar
-
 Ars Nouveau 1.25.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Ars.Nouveau.1.25.1.jar
-
 Artifacts 2.10.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Artifacts.2.10.5.jar
-
 Astemir's Forestcraft 1.87.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Astemir.s.Forestcraft.1.87.jar
-
 Auto Reg Lib 1.6.49.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Auto.Reg.Lib.1.6.49.jar
-
 Beautified Chat 1.0.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Beautified.Chat.1.0.jar
-
 Better Animals Plus 11.0.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Better.Animals.Plus.11.0.1.jar
-
 Better Combat 1.4.5.31.16.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Better.Combat.1.4.5.31.16.jar
-
 Better End 1.6.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Better.End.1.6.3.jar
-
 Better Nether 1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Better.Nether.1.2.jar
-
 Biomes O Plenty 13.1.0.488.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Biomes.O.Plenty.13.1.0.488.jar
-
 Blueprint 3.3.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Blueprint.3.3.1.jar
-
 Charm 2.3.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Charm.2.3.2.jar
-
 Citadel 1.8.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Citadel.1.8.1.jar
-
 Cloth Config API 4.17.132.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Cloth.Config.API.4.17.132.jar
-
 Collective 5.49.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Collective.5.49.jar
-
 Create 0.3.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Create.0.3.2.jar
-
 Creative Core 2.2.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Creative.Core.2.2.1.jar
-
 Croptopia 2.0.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Croptopia.2.0.5.jar
-
 Crust 1.3.4.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Crust.1.3.4.jar
-
 Curios API 4.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Curios.API.4.1.jar
-
 Does Potato Tick 4.0.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Does.Potato.Tick.4.0.2.jar
-
 Dungeons Content 1.10.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Dungeons.Content.1.10.3.jar
-
 Dungeons Gear 3.2.7.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Dungeons.Gear.3.2.7.jar
-
 Dungeons Libraries 1.0.6.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Dungeons.Libraries.1.0.6.jar
-
 Dungeons Mod 1.4.43.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Dungeons.Mod.1.4.43.jar
-
 Dynamic Surroundings 4.0.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Dynamic.Surroundings.4.0.5.jar
-
 Embeddium (Rubidium) Extra 0.4.18.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Embeddium.(Rubidium).Extra.0.4.18.jar
-
 Embeddium Dynamic Lights 1.0.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Embeddium.Dynamic.Lights.1.0.1.jar
-
 End Remastered 5.0.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/End.Remastered.5.0.3.jar
-
 Entity Culling 1.5.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Entity.Culling.1.5.2.jar
-
 Exotic Birds 1.4.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Exotic.Birds.1.4.jar
-
 Expand Ability 2.0.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Expand.Ability.2.0.1.jar
-
 Farmer's Delight 0.6.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Farmer.s.Delight.0.6.jar
-
 Ferrite Core 2.1.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Ferrite.Core.2.1.1.jar
-
 First-person Model 2.4.9.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/First-person.Model.2.4.9.jar
-
 Fishing Real 1.0.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Fishing.Real.1.0.jar
-
 Flywheel 0.2.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Flywheel.0.2.5.jar
-
 Forged Fabric API 0.0.7.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Forged.Fabric.API.0.0.7.jar
-
 Fruitful Fun 2.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Fruitful.Fun.2.5.jar
-
 Gecko Lib 3.0.106.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Gecko.Lib.3.0.106.jar
-
 Goblins Dungeons 1.0.6.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Goblins.Dungeons.1.0.6.jar
-
 Goki Stats 1.3.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Goki.Stats.1.3.2.jar
-
 Grave Stone 1.0.7.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Grave.Stone.1.0.7.jar
-
 HT`s Tree Chop 0.14.6.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/HT.s.Tree.Chop.0.14.6.jar
-
 Ice and Fire Dragons 2.1.12.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Ice.and.Fire.Dragons.2.1.12.jar
-
 Infernal Expansion 2.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Infernal.Expansion.2.5.jar
-
 Item Physic Full 1.4.18.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Item.Physic.Full.1.4.18.jar
-
 Just Enough Items 7.8.0.1013.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Just.Enough.Items.7.8.0.1013.jar
-
 Kiwi 3.6.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Kiwi.3.6.1.jar
-
 Lazy Data Fixer Upper 0.1.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Lazy.Data.Fixer.Upper.0.1.3.jar
-
 LibX 1.0.76.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/LibX.1.0.76.jar
-
 Medieval Craft (Structures) 2.0.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Medieval.Craft.(Structures).2.0.2.jar
-
 Medieval craft (Weapons) 1.4.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Medieval.craft.(Weapons).1.4.1.jar
-
 Medieval RP mod 0.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Medieval.RP.mod.0.1.jar
-
 Modern Fix 5.18.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Modern.Fix.5.18.jar
-
 Moonlight Lib 1.9.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Moonlight.Lib.1.9.jar
-
 Mowzie's Mobs 1.5.27.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Mowzie.s.Mobs.1.5.27.jar
-
 MrCrayfish's Furniture Mod 7.0.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/MrCrayfish.s.Furniture.Mod.7.0.jar
-
 Not Enough Animations 1.9.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Not.Enough.Animations.1.9.3.jar
-
 Nutritional Balance 0.7.14.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Nutritional.Balance.0.7.14.jar
-
 Oculus 1.4.8.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Oculus.1.4.8.jar
-
 Oh The Biomes You'll Go 1.3.6.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Oh.The.Biomes.You.ll.Go.1.3.6.jar
-
 Pack Menu 2.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Pack.Menu.2.5.jar
-
 Paragliders 1.3.2.14.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Paragliders.1.3.2.14.jar
-
 Passable Foliage 2.4.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Passable.Foliage.2.4.jar
-
 Patchouli 53.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Patchouli.53.3.jar
-
 Pickable Health Orbs 2.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Pickable.Health.Orbs.2.3.jar
-
 Placeable Items 4.5.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Placeable.Items.4.5.1.jar
-
 Placebo 4.7.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Placebo.4.7.1.jar
-
 Player Animator 0.4.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Player.Animator.0.4.jar
-
 Polymorph 0.41.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Polymorph.0.41.jar
-
 Prelaws Improved Falling 1.0.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Prelaws.Improved.Falling.1.0.jar
-
 Project Vibrant Journeys 3.2.11.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Project.Vibrant.Journeys.3.2.11.jar
-
 Quark 2.4.322.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Quark.2.4.322.jar
-
 Rubidium 0.2.13.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Rubidium.0.2.13.jar
-
 Serene Seasons 4.0.1.13.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Serene.Seasons.4.0.1.13.jar
-
 Simple Farming 1.3.8.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Simple.Farming.1.3.8.jar
-
 Simple Voice 2.5.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Simple.Voice.2.5.3.jar
-
 Snow Real Magic 2.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Snow.Real.Magic.2.1.jar
-
 Sophisticated Backpacks 3.15.20.755.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Sophisticated.Backpacks.3.15.20.755.jar
-
 Sound Filters 0.14.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Sound.Filters.0.14.jar
-
 Special AI 1.2.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Special.AI.1.2.1.jar
-
 Stalwart Dungeons 1.1.7.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Stalwart.Dungeons.1.1.7.jar
-
 Structures Plus II.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Structures.Plus.II.jar
-
 Supplementaries 0.18.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Supplementaries.0.18.5.jar
-
 Survive 3.4.8.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Survive.3.4.8.jar
-
 TexTrue's Rubidium Options 1.0.8.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/TexTrue.s.Rubidium.Options.1.0.8.jar
-
 Traveler`s Titles 1.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Traveler.s.Titles.1.5.jar
-
 Union Lib 3.3.7.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Union.Lib.3.3.7.jar
-
 Unlit Campfire 1.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Unlit.Campfire.1.3.jar
-
 Upgrade Aquatic 3.1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Upgrade.Aquatic.3.1.2.jar
-
 Waystones 7.6.4.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Waystones.7.6.4.jar
-
 Weaker Spiderwebs 2.7.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Weaker.Spiderwebs.2.7.jar
-
 When Dungeons Arise 2.1.49.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/When.Dungeons.Arise.2.1.49.jar
-
 Wizards Animals 2.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Wizards.Animals.2.5.jar
-
 World Building Plus 1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/World.Building.Plus.1.2.jar
-
 Xaero's Minimap 25.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Xaero.s.Minimap.25.2.jar
-
 YUNG's API 13.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.API.13.jar
-
 YUNG's Better Caves 1.1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.Better.Caves.1.1.2.jar
