@@ -1,5 +1,5 @@
-indexes.zip|1.0.0|https://github.com/Mythernix/Assets/releases/download/Client/indexes.zip
+indexes|1.0.0|https://github.com/Mythernix/Assets/releases/download/Client/indexes.zip
 
-log_configs.zip|1.0.0|https://github.com/Mythernix/Assets/releases/download/Client/log_configs.zip
+log_configs|1.0.0|https://github.com/Mythernix/Assets/releases/download/Client/log_configs.zip
 
-objects.zip|1.0.0|https://github.com/Mythernix/Assets/releases/download/Client/objects.zip
+objects|1.0.0|https://github.com/Mythernix/Assets/releases/download/Client/objects.zip
