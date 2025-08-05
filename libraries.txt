@@ -1,27 +1,27 @@
-com.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/com.zip
+com|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/com.zip
 
-commons-beanutils.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-beanutils.zip
+commons-beanutils|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-beanutils.zip
 
-commons-codec.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-codec.zip
+commons-codec|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-codec.zip
 
-commons-collections.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-collections.zip
+commons-collections|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-collections.zip
 
-commons-io.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-io.zip
+commons-io|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-io.zip
 
-commons-logging.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-logging.zip
+commons-logging|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/commons-logging.zip
 
-cpw.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/cpw.zip
+cpw|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/cpw.zip
 
-de.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/de.zip
+de|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/de.zip
 
-io.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/io.zip
+io|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/io.zip
 
-it.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/it.zip
+it|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/it.zip
 
-net.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/net.zip
+net|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/net.zip
 
-org.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/org.zip
+org|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/org.zip
 
-oshi-project.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/oshi-project.zip
+oshi-project|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/oshi-project.zip
 
-trove.zip|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/trove.zip
+trove|1.0.0|https://github.com/Mythernix/Libraries/releases/download/Client/trove.zip
