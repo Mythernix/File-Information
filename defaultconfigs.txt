@@ -1,1 +1,1 @@
-unlitcampfire-server.toml|1.0.0|
+unlitcampfire-server.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/defaultconfigs/unlitcampfire-server.toml
