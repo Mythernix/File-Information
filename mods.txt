@@ -28,7 +28,7 @@ Dungeons Gear 3.2.7.jar|1.0.0|https://github.com/Mythernix/Mods/releases/downloa
 Dungeons Libraries 1.0.6.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Dungeons.Libraries.1.0.6.jar
 Dungeons Mod 1.4.43.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Dungeons.Mod.1.4.43.jar
 Dynamic Surroundings 4.0.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Dynamic.Surroundings.4.0.5.jar
-Embeddium (Rubidium) Extra 0.4.18.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Embeddium.(Rubidium).Extra.0.4.18.jar
+Embeddium (Rubidium) Extra 0.4.18.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Embeddium.Rubidium.Extra.0.4.18.jar
 Embeddium Dynamic Lights 1.0.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Embeddium.Dynamic.Lights.1.0.1.jar
 End Remastered 5.0.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/End.Remastered.5.0.3.jar
 Entity Culling 1.5.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Entity.Culling.1.5.2.jar
@@ -101,3 +101,4 @@ World Building Plus 1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/dow
 Xaero's Minimap 25.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Xaero.s.Minimap.25.2.jar
 YUNG's API 13.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.API.13.jar
 YUNG's Better Caves 1.1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.Better.Caves.1.1.2.jar
+
