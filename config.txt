@@ -293,8 +293,8 @@ pickableorbs|common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Confi
 pickableorbs|orbs|confusion.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/confusion.json
 pickableorbs|orbs|damaging.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/damaging.json
 pickableorbs|orbs|fire_resistance.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/fire_resistance.json
-pickableorbs|orbs|health.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/pickableorbs/health.json
-pickableorbs|orbs|jump.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/pickableorbs/jump.json
+pickableorbs|orbs|health.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/health.json
+pickableorbs|orbs|jump.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/jump.json
 pickableorbs|orbs|levitation.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/levitation.json
 pickableorbs|orbs|poison.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/poison.json
 pickableorbs|orbs|speed.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/refs/heads/main/config/pickableorbs/orbs/speed.json
@@ -308,5 +308,6 @@ SpecialAI|idle_ai.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/
 voicechat|translations.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/voicechat/translations.properties
 voicechat|voicechat-client.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/voicechat/voicechat-client.properties
 voicechat|voicechat-server.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/voicechat/voicechat-server.properties
+
 
 
