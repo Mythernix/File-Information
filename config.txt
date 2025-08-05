@@ -308,6 +308,3 @@ SpecialAI|idle_ai.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/
 voicechat|translations.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/voicechat/translations.properties
 voicechat|voicechat-client.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/voicechat/voicechat-client.properties
 voicechat|voicechat-server.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/voicechat/voicechat-server.properties
-
-
-
