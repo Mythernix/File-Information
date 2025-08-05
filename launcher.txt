@@ -1,1 +1,1 @@
-Mythernix Launcher.exe|1.0.1|
+Mythernix Launcher 2.0.exe|2.0.0|https://github.com/Mythernix/Launcher/raw/refs/heads/main/Mythernix%20Launcher%202.0.exe
