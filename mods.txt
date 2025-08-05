@@ -1,4 +1,4 @@
-Alex Mobs 1.12.1.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Alex.Mobs.1.12.1.jar
+Alex Mobs 1.12.1.jar|1.0.1|https://github.com/Mythernix/Mods/releases/download/Client/Alex.Mobs.1.12.1.jar
 Ambient Sounds 3.1.11.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Ambient.Sounds.3.1.11.jar
 Aquaculture 2.1.23.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Aquaculture.2.1.23.jar
 Architectury API 1.32.68.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Architectury.API.1.32.68.jar
@@ -101,3 +101,4 @@ World Building Plus 1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/dow
 Xaero's Minimap 25.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Xaero.s.Minimap.25.2.jar
 YUNG's API 13.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.API.13.jar
 YUNG's Better Caves 1.1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.Better.Caves.1.1.2.jar
+
