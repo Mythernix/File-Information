@@ -1,1 +1,1 @@
-Sildur's Vibrant shaders 1.52.zip|1.0.0|https://github.com/Mythernix/ShaderPacks/releases/download/Client/Sildur.s.Vibrant.shaders.1.52.zip
+Sildur's Vibrant shaders 1.52|1.0.0|https://github.com/Mythernix/ShaderPacks/releases/download/Client/Sildur.s.Vibrant.shaders.1.52.zip
