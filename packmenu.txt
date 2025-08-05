@@ -1,1 +1,1 @@
-resources.zip|1.0.0|https://github.com/Mythernix/PackMenu/releases/download/Client/resources.zip
+resources|1.0.0|https://github.com/Mythernix/PackMenu/releases/download/Client/resources.zip
