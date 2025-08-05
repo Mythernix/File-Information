@@ -309,3 +309,4 @@ voicechat|translations.properties|1.0.0|https://raw.githubusercontent.com/Myther
 voicechat|voicechat-client.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/voicechat/voicechat-client.properties
 voicechat|voicechat-server.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Config/main/config/voicechat/voicechat-server.properties
 
+
