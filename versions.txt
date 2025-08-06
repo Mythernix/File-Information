@@ -1,2 +1,2 @@
-Fantasy|1.0.0|https://github.com/Mythernix/Versions/releases/download/Client/Fantasy.zip
-Mythernix|1.0.0|https://github.com/Mythernix/Versions/releases/download/Client/Mythernix.zip
+1.16.5-forge-36.2.42|1.0.0|https://github.com/Mythernix/Versions/releases/download/Client/1.16.5-forge-36.2.42.zip
+1.16.5|1.0.0|https://github.com/Mythernix/Versions/releases/download/Client/1.16.5.zip
