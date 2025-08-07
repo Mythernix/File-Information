@@ -98,10 +98,7 @@ Upgrade Aquatic 3.1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/downl
 Waystones 7.6.4.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Waystones.7.6.4.jar
 Weaker Spiderwebs 2.7.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Weaker.Spiderwebs.2.7.jar
 When Dungeons Arise 2.1.49.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/When.Dungeons.Arise.2.1.49.jar
-Wizards Animals 2.5.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Wizards.Animals.2.5.jar
 World Building Plus 1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/World.Building.Plus.1.2.jar
 Xaero's Minimap 25.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Xaero.s.Minimap.25.2.jar
 YUNG's API 13.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.API.13.jar
 YUNG's Better Caves 1.1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.Better.Caves.1.1.2.jar
-
-
