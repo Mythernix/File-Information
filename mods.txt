@@ -60,7 +60,7 @@ Modern Fix 5.18.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Cl
 Moonlight Lib 1.9.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Moonlight.Lib.1.9.jar
 Mowzie's Mobs 1.5.27.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Mowzie.s.Mobs.1.5.27.jar
 MrCrayfish's Furniture Mod 7.0.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/MrCrayfish.s.Furniture.Mod.7.0.jar
-Multiplayer 1.0|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Multiplayer.1.0.jar
+Multiplayer 1.0.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Multiplayer.1.0.jar
 Not Enough Animations 1.9.3.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Not.Enough.Animations.1.9.3.jar
 Nutritional Balance 0.7.14.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Nutritional.Balance.0.7.14.jar
 Oculus 1.4.8.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Oculus.1.4.8.jar
@@ -102,4 +102,3 @@ World Building Plus 1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/dow
 Xaero's Minimap 25.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/Xaero.s.Minimap.25.2.jar
 YUNG's API 13.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.API.13.jar
 YUNG's Better Caves 1.1.2.jar|1.0.0|https://github.com/Mythernix/Mods/releases/download/Client/YUNG.s.Better.Caves.1.1.2.jar
-
