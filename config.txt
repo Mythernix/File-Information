@@ -64,7 +64,7 @@ rubidium-options.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/
 simplefarming.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/simplefarming.toml
 snowrealmagic-client.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/snowrealmagic-client.toml
 snowrealmagic-common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/snowrealmagic-common.toml
-sodium-extra-options.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/sodium-extra-options.json
+sodium-extra-options.json|1.0.1|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/sodium-extra-options.json
 sophisticatedbackpacks-client.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/sophisticatedbackpacks-client.toml
 sophisticatedbackpacks-common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/sophisticatedbackpacks-common.toml
 soundfilters-client.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/soundfilters-client.toml
