@@ -88,7 +88,7 @@ waystones-server.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/
 weakerspiderwebs-common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/weakerspiderwebs-common.toml
 when-dungeons-arise-common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/when-dungeons-arise-common.toml
 xaerominimap-common.txt|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/xaerominimap-common.txt
-xaerominimap.txt|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/xaerominimap.txt
+xaerominimap.txt|1.0.1|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/xaerominimap.txt
 xaerominimap_entities.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/xaerominimap_entities.json
 alexsmobs|alligator_snapping_turtle_spawns.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/main/config/alexsmobs/alligator_snapping_turtle_spawns.json
 alexsmobs|bald_eagle_spawns.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/main/config/alexsmobs/bald_eagle_spawns.json
@@ -309,3 +309,4 @@ SpecialAI|idle_ai.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs
 voicechat|translations.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/main/config/voicechat/translations.properties
 voicechat|voicechat-client.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/main/config/voicechat/voicechat-client.properties
 voicechat|voicechat-server.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/main/config/voicechat/voicechat-server.properties
+
