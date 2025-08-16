@@ -39,7 +39,7 @@ forge-common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs
 fruittrees-common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/fruittrees-common.toml
 gravestone-client.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/gravestone-client.toml
 iceandfire-client.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/iceandfire-client.toml
-iceandfire-common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/iceandfire-common.toml
+iceandfire-common.toml|1.0.1|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/iceandfire-common.toml
 infernalexp-client.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/infernalexp-client.toml
 infernalexp-common.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/infernalexp-common.toml
 itemphysic-client.json|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/refs/heads/main/config/itemphysic-client.json
@@ -309,4 +309,5 @@ SpecialAI|idle_ai.toml|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs
 voicechat|translations.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/main/config/voicechat/translations.properties
 voicechat|voicechat-client.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/main/config/voicechat/voicechat-client.properties
 voicechat|voicechat-server.properties|1.0.0|https://raw.githubusercontent.com/Mythernix/Configs/main/config/voicechat/voicechat-server.properties
+
 
